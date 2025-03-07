@@ -1,0 +1,3 @@
+@echo off
+echo Starting Medipass Backend Server...
+call ts-node src/app.ts 
